@@ -10,6 +10,8 @@ Qt Designer ile tasarlanıp Python dili ile yazılmıştır. Amaç, hem güvenli
 <b>2-)</b>Parola uzunluğu varsayılanda 16 karakter olarak belirlenmiştir. En az 8 en fazla 255 karakter uzunluğunda parola oluşturulmasını sağlar.<br>
 <b>3-)</b>Oluşturulan parola, <b>"Save"</b> butonuna tıklanılması halinde, <b>SecPassG.txt</b> dosya adı ile kaydedilir.
 <br><br><b>Windows</b> indirme linki : https://www.parolaanalizi.com/SecPassG.exe
+<br>
+<b>SHA-256  :  </b>A81CEBD3B526CFC673CCAC7F423BB0AC3AD33437D794C25B2DF6B2C093983ECD
 <br><br>
 <b>Linux</b><br>
 --Eklenecek--<br><br>
