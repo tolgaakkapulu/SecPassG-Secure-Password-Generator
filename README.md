@@ -4,7 +4,6 @@ Qt Designer ile tasarlanıp Python dili ile yazılmıştır. Amaç, hem güvenli
 <b> Windows</b><br>
 <img src="https://www.parolaanalizi.com/images/SecPassG/1.png" style="float:left" width="25%">
 <img src="https://www.parolaanalizi.com/images/SecPassG/2.png" style="float:right" width="25%">
-
 <br><br>
 <b>Program İçeriği</b><br>
 <b>1-)</b>Programda 4 seçenek bulunmaktadır. Parolanın güvenliği için 4 seçeneğin de seçili olduğundan emin olunuz. <br>
