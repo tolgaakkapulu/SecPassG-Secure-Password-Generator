@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 ###################################################################
@@ -20,6 +21,9 @@ class Ui_MainWindow(object):
         MainWindow.resize(350, 425)
         MainWindow.setMinimumSize(QtCore.QSize(350, 425))
         MainWindow.setMaximumSize(QtCore.QSize(350, 425))
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap("secpass.ico"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        MainWindow.setWindowIcon(icon)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.layoutWidget = QtWidgets.QWidget(self.centralwidget)
@@ -217,7 +221,6 @@ class Ui_MainWindow(object):
         self.label_4.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\">Press <span style=\" font-weight:600;\"></span><span style=\" font-weight:600; color:#990000;\">Generate</span><span style=\" font-weight:600;\"></span> button to create secure password</p></body></html>"))
         self.pushButton.setText(_translate("MainWindow", "Generate"))
         self.pushButton_2.setText(_translate("MainWindow", "Save"))
-
 
     def openURL(self):
         webbrowser.open("https://www.tolgaakkapulu.com")
