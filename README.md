@@ -11,19 +11,20 @@ Qt Designer ile tasarlanıp Python dili ile yazılmıştır. Amaç, hem güvenli
 <img src="https://www.parolaanalizi.com/images/SecPassG/2.png" style="float:right" width="25%">
 <br><br><b>Windows</b> indirme linki : https://www.parolaanalizi.com/SecPassG.exe
 <br>
-<b>SHA-256  :  </b>A81CEBD3B526CFC673CCAC7F423BB0AC3AD33437D794C25B2DF6B2C093983ECD
+<b>SHA-256 : </b>A81CEBD3B526CFC673CCAC7F423BB0AC3AD33437D794C25B2DF6B2C093983ECD
 <br><br>
 <b>Linux</b><br>
 <img src="https://www.parolaanalizi.com/images/SecPassG/3.png" style="float:left" width="25%">
 <img src="https://www.parolaanalizi.com/images/SecPassG/4.png" style="float:right" width="25%">
 <br><br>
-<b>Kurulum ve Kullanım</b><br>
-<b>1-)</b>cd $HOME/Desktop<br>
-<b>2-)</b>git clone "https://github.com/tolgaakkapulu/SecPassG-Secure_Password_Generator"<br>
-<b>3-)</b>cd SecPassG-Secure_Password_Generator<br>
-<b>4-)</b>cd linux<br>
-<b>5-)</b>chmod +x SecPassG_v1.0.py<br>
-<b>6-)</b>python3 SecPassG_v1.0.py<br><br>
+<b>Linux</b> indirme linki : https://www.parolaanalizi.com/SecPassG_v1.0.tar
+<br>
+<b>SHA-256 : </b>E085A58268FCA30B12024ED1BAF15971FAC767722CAFC0DA2042F0EA16286F3D
+<br><br><b>Kurulum ve Kullanım</b><br>
+<b>1-)</b>tar -xvf SecPassG_v1.0.tar<br>
+<b>2-)</b>cd SecPassG_v1.0<br>
+<b>3-)</b>chmod +x SecPassG_v1.0.py<br>
+<b>4-)</b>python3 SecPassG_v1.0.py<br><br>
 <b>TOLGA AKKAPULU<br><br>
 Web             : https://www.tolgaakkapulu.com<br>
 Blog            : https://blog.tolgaakkapulu.com<br>
