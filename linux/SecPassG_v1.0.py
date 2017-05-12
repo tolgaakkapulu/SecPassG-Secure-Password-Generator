@@ -202,7 +202,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "SecPassG - Secure Password Generator"))
         self.checkBox_3.setText(_translate("MainWindow", "Lower Case [a-z]"))
         self.label_2.setText(_translate("MainWindow", "Password Length"))
         self.checkBox_4.setText(_translate("MainWindow", "Number [0-9]"))
@@ -312,4 +312,3 @@ if __name__ == "__main__":
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
-
