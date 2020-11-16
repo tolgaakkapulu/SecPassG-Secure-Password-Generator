@@ -5,7 +5,7 @@
 # Writer    #  Tolga AKKAPULU                                     #
 # Web       #  https://www.tolgaakkapulu.com                      #
 #           #  https://www.parolaanalizi.com                      #
-# LinkedIN  #  https://tr.linkedin.com/in/tolga-akkapulu-518054105#
+# LinkedIN  #  https://tr.linkedin.com/in/tolgaakkapulu           #
 # GitHub    #  https://github.com/tolgaakkapulu                   #
 ###################################################################
 
